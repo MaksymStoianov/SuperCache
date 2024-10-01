@@ -1,4 +1,6 @@
-<h1 align="center">Readme</h1>
+<a href="//github.com/MaksymStoianov/SuperCache"><img src="docs/assets/images/banner-1.svg" width="800" height="200"></a>
+
+<hr>
 
 <div id="locales" align="center">
   <a href="docs/bg/README.md"><img src="https://img.shields.io/badge/BG-grey?style=flat" alt="Български"></a>
